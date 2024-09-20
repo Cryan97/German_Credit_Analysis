@@ -1,5 +1,5 @@
 ---
-title: "Final Project - No Data Explorer"
+title: "German Credit Analysis"
 author: "Conor Ryan - 16340116"
 date: "22/12/2021"
 output: pdf_document
